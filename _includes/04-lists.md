@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- I've published 3 papers.
+- **Statistical Rethinking** is a great book.
+- Batman is the greatest of them all.
